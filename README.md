@@ -1,2 +1,5 @@
 # BF528-Project-5-Cmbelama
-Script, files, and write-up for BF528 Project 5 - Individual Project
+Camilla Belamarich
+BF 528: Project 5 - Replication of Analyst and Biologist Roles for Project 2
+
+Transcriptional Profile of Mammalian Cardiac Regeneration with mRNA-seq
